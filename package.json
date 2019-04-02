@@ -1,6 +1,6 @@
 {
-    "name": "ZhaTh",
-    "description": "努力尝试的主题",
+    "name": "zha-theme",
+    "description": "e,bu neng  shi zhong wen me?",
     "demo": "https://demo.ghost.io",
     "version": "0.0.1",
     "engines": {
@@ -22,7 +22,7 @@
         "postship": "git fetch && gulp release"
     },
     "author": {
-        "name": "老欧",
+        "name": "oenai",
         "email": "chalb@qq.com",
         "url": "https://ghost.org"
     },
