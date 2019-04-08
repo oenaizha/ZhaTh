@@ -417,6 +417,22 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     object-fit: cover;
 }
 
+
+/*卡片上时间样式
+*/
+
+.post-card-image-time{
+    display: block;
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    background-color: rgba(0,0,0,0.2);
+    color: #fff;
+    text-decoration: none;
+}
+
+
 .post-card-content-link {
     position: relative;
     flex-grow: 1;
